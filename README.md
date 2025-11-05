@@ -6,6 +6,7 @@ One is pwr, whose output is 2493 bytes. The pwr file is output in hex and the pw
 ![pwr output](Pics/pwr.png)
 The soh command, whose hex output is in the soh file and the soh.txt file is output in ASCII. 
 ![soh output](Pics/soh.png)
+
 The shut command turns off the battery.
 
 help command also print command's.
